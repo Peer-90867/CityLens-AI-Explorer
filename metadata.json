@@ -1,0 +1,7 @@
+{
+  "name": "CityLens AI Explorer",
+  "description": "An AI-powered photo tourism app that recognizes landmarks, searches for their history, and narrates the story using immersive audio and AR-inspired overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
